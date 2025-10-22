@@ -1,0 +1,28 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+header {
+  background: linear-gradient(135deg, #4a0080, #9b59b6);
+}
+
+h2 {
+  color: #6a1b9a;
+}
+
+footer {
+  font-size: 0.9rem;
+}
+
+.btn-primary {
+  background-color: #4a0080;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #9b59b6;
+}
+
+body {
+  background-color: #f3e5f5 !important;
+}
